@@ -25,6 +25,9 @@ introduction for novices to the Unix Shell, Python and Git.
 - [ ] Breaks
 - [ ] Coffee/Tea
 - [ ] Bathroom
+- [ ] Wifi
+  - https://www.rz.uni-wuerzburg.de/dienste/kommunikation/wireless_lan/verfuegbare_wlan_netze/
+  - https://www.rz.uni-wuerzburg.de/dienste/kommunikation/wireless_lan/konfiguration_der_endgeraete/
 - [ ] Material of the course
   - https://swcarpentry.github.io/shell-novice/
   - https://swcarpentry.github.io/python-novice-inflammation/
