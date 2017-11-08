@@ -1,11 +1,11 @@
-# Course Material for the Software Carpentry workshop Würzburg 2017-10-23
+# Course Material for the Software Carpentry workshop Würzburg 2017-11-08
 
 ## 1 About
 
 This is the course material for
 the [Software Carpentry](http://software-carpentry.org/) workshop
-taking place in Würzburg October 23rd, 2017. The course is an
-introduction for novices to the Unix Shell, Python and Git.
+taking place in Würzburg November 8th, 2017. The course is an
+introduction for novices to the Unix Shell and Python.
 
 ## 2 Schedule
 
